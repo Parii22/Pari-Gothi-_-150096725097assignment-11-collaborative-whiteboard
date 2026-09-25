@@ -4,6 +4,11 @@ A high-performance, real-time collaborative whiteboard web application built usi
 
 ---
 
+## 🌟 Live Link: 
+https://pari-gothi-150096725097assignment-11.onrender.com
+
+---
+
 ## 🌟 Key Features
 
 1. **Multi-Room Canvas Support**: Partition boards using a room query parameter (e.g., `?board=demo` or `?board=design-101`) or using the built-in room join switcher.
